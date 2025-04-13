@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ Squad\ class\ which\ shows\ a\ group\ of\ units\r\n\ \ This\ class\ inherits\ from\ its\ parent\ class\ which\ is\ the\ EnhancedUnit\ \r\n\ \ class.\r\n\r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.04)\r\n
+comment1.params=name
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ name\ Parameter\ which\ gives\ the\ name\ of\ the\ Squad.\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ Getter\ method\ which\ returns\ the\ list\ of\ the\ units.\r\n\ @return\ returns\ the\ list\ of\ the\ units.\r\n
+comment3.params=unit
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ Method\ which\ adds\ a\ unit\ to\ the\ unit\ list.\r\n\ @param\ unit\ Parameter\ which\ adds\ a\ unit\ attribute\ to\ the\ \r\n\ list.\r\n
+comment4.params=unit
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ Method\ which\ removes\ a\ unit\ from\ the\ list.\r\n\ @param\ unit\ Parameter\ which\ removes\ the\ unit\ from\ the\ list.\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ Getter\ method\ that\ returns\ the\ total\ number\ of\ points\ the\r\n\ squad\ has.\r\n\ @return\ returns\ the\ total\ amount\ of\ points\ of\ the\ squad.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Override\ method\ which\ overrides\ toString\ to\ say\ the\r\n\ intended\ text.\r\n\ @return\ returns\ the\ units\ from\ the\ parent\ class\r\n
+numComments=7

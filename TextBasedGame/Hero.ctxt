@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ \ Hero\ class\ which\ sets\ the\ quality,\ name,\ points\ of\ the\ hero\ \r\n\ \ Takes\ the\ methods\ from\ the\ EnhancedUnit\ class\ \r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.22)\r\n
+comment1.params=name\ points
+comment1.target=Hero(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Hero\ object.\r\n\ @param\ name\ Parameter\ that\ takes\ the\ string\ value\ from\ the\ parent\ class.\r\n\ @param\ points\ Parameter\ that\ takes\ the\ points\ value.\r\n
+numComments=2

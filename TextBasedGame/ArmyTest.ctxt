@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ArmyTest
+comment0.text=\r\n\ \ The\ test\ class\ for\ the\ Army\ class\r\n\ \ Testing\ to\ see\ if\ the\ methods\ in\ the\ Army\ class\ works\ as\ intended\r\n\r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.30)\r\n
+comment1.params=
+comment1.target=ArmyTest()
+comment1.text=\r\n\ Creates\ a\ new\ ArmyTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetPlayerName()
+comment3.text=\r\n\ Tests\ the\ getPlayerName\ method\ to\ see\ if\ it\ works\ properly\r\n\ and\ returns\ the\ correct\ name.\r\n
+comment4.params=
+comment4.target=void\ testSetPlayerName()
+comment4.text=\r\n\ Tests\ the\ setPlayerName\ method\ to\ see\ if\ the\ name\ gets\ \r\n\ replaced\ with\ the\ parameter\ one.\r\n
+comment5.params=
+comment5.target=void\ testGetFaction()
+comment5.text=\r\n\ Tests\ the\ getFaction\ method\ to\ see\ if\ it\ returns\ the\ correct\r\n\ faction\ name.\r\n
+comment6.params=
+comment6.target=void\ testSetFaction()
+comment6.text=\r\n\ Tests\ the\ setFaction\ method\ to\ see\ if\ it\ replaces\ the\ name\r\n\ with\ the\ one\ in\ the\ parameter.\r\n
+comment7.params=
+comment7.target=void\ testToString()
+comment7.text=\r\n\ Tests\ the\ toString\ method\ to\ see\ if\ it\ returns\ the\ intended\r\n\ statement.\r\n
+numComments=8

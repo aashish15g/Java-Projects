@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ \ The\ Army\ class\ which\ is\ a\ derived\ class\ of\ the\ Squad\ class.\r\n\ \ This\ class\ shows\ the\ players\ team\r\n\r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.30)\r\n
+comment1.params=armyTitle\ faction\ player
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Army\ object.\r\n\ @param\ armyTitle\ name\ of\ the\ army.\r\n\ @param\ faction\ name\ of\ the\ faction.\r\n\ @param\ player\ name\ of\ the\ player.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getPlayerName()
+comment2.text=\r\n\ Getter\ method\ which\ returns\ the\ name\ of\ the\ player.\r\n\ @return\ returns\ the\ name\ of\ the\ player.\r\n
+comment3.params=playerName
+comment3.target=void\ setPlayerName(java.lang.String)
+comment3.text=\r\n\ Setter\ method\ which\ changes\ the\ player's\ name\ to\ the\ desired\r\n\ one\ in\ the\ parameter.\r\n\ @param\ playerName\ Parameter\ that\ replaces\ the\ player\ name.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFaction()
+comment4.text=\r\n\ Getter\ method\ which\ returns\ the\ name\ of\ the\ faction.\r\n\ @return\ returns\ the\ name\ of\ the\ faction.\r\n
+comment5.params=faction
+comment5.target=void\ setFaction(java.lang.String)
+comment5.text=\r\n\ Setter\ method\ which\ changes\ the\ faction\ name\ to\ the\ desired\r\n\ one\ in\ the\ parameter.\r\n\ @param\ faction\ Parameter\ which\ replaces\ the\ faction\ name.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Override\ method\ which\ overrides\ toString\ to\ say\ the\ \r\n\ intended\ text\r\n\ @return\ returns\ string\ which\ gives\ the\ player,\ the\ faction\ \r\n\ and\ the\ army.\r\n
+numComments=7

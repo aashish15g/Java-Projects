@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HeroTest
+comment0.text=\r\n\ \ Tests\ if\ the\ constructors\ made\ in\ the\ Hero\ class\ works\ as\ expected\r\n\r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.22)\r\n
+comment1.params=
+comment1.target=HeroTest()
+comment1.text=\r\n\ Creates\ a\ new\ HeroTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testGetName()
+comment3.text=\r\n\ Tests\ the\ getName\ method\ to\ see\ if\ the\ information\ is\ transferred\r\n\ properly\ from\ the\ parent\ class\ to\ the\ derived\ class.\r\n
+comment4.params=
+comment4.target=void\ testGetPoints()
+comment4.text=\r\n\ Tests\ the\ getPoints\ method\ to\ see\ if\ the\ information\ is\ transferred\r\n\ properly\ from\ the\ parent\ class\ to\ the\ derived\ class.\r\n
+comment5.params=
+comment5.target=void\ testSetQuality()
+comment5.text=\r\n\ Tests\ the\ setQuality()\ method\ to\ see\ if\ the\ quality\ is\ changed\ \r\n\ properly\ from\ the\ parent\ class\ to\ the\ derived\ class.\r\n
+comment6.params=
+comment6.target=void\ testSetDefense()
+comment6.text=\r\n\ Tests\ the\ setDefense\ method\ to\ see\ if\ the\ defense\ is\ changed\r\n\ properly\ from\ the\ parent\ class\ to\ the\ derived\ class.\r\n
+numComments=7

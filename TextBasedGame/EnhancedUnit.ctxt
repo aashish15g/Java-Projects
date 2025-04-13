@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnhancedUnit
+comment0.text=\r\n\ \ This\ class\ displays\ the\ special\ abilities\ a\ unit\ can\ possess\ \r\n\ \ Much\ like\ the\ hero\ class,\ this\ class\ inherits\ most\ \r\n\ \ of\ the\ methods\ from\ the\ Unit\ class\r\n\ \ \r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.22)\r\n
+comment1.params=name\ points
+comment1.target=EnhancedUnit(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ EnhancedUnit\ object.\r\n\ @param\ name\ Parameter\ that\ takes\ the\ string\ value\ from\ the\ parent\ class\r\n\ @param\ points\ Paramter\ that\ takes\ the\ points\ value\ from\ the\ parent\ class\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSpecialRule()
+comment2.text=\r\n\ Getter\ method\ that\ outputs\ the\ specialRule.\ \r\n\ @return\ returns\ the\ special\ rule.\r\n
+comment3.params=specialRule
+comment3.target=void\ setSpecialRule(java.lang.String)
+comment3.text=\r\n\ Setter\ method\ which\ takes\ a\ string\ parameter\ \r\n\ and\ changes\ the\ special\ rule\ to\ the\ desired\ value\r\n\ @param\ specialRule\ Parameter\ that\ takes\ \r\n\ a\ string\ value\ and\ changes\ it\ to\ make\ a\ new\ specialRule\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Override\ method\ which\ overrides\ toString\ to\ say\ the\ intended\ text\r\n\ @return\ Returns\ a\ string\ which\ calls\ the\ parent\ class's\ toString\r\n\ \ method\ and\ adds\ the\ special\ rule\ when\ it\ is\ not\ equal\ to\ null.\r\n
+numComments=5

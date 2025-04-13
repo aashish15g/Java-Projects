@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ Intro\ to\ CS\ 1114\ class,\ teaching\ us\ the\ basic\ fundamentalls\ of\ java.\r\n\ \ This\ program\ teaches\ us\ how\ to\ use\ setter\ and\ getter\ methods\r\n\ \ properly.\r\n\r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.22)\r\n
+comment1.params=name\ points
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ name\ Parameter\ that\ takes\ the\ string\ value\ and\ makes\ it\ into\ \r\n\ a\ name.\ \r\n\ @param\ points\ paramater\ that\ is\ an\ int\ value\ which\ shows\ the\ points.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Tests\ the\ getName\ method\ to\ see\ if\ it\ works\ as\ intended.\r\n\ @return\ returns\ the\ string\ name.\r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Setter\ method\ which\ takes\ a\ string\ parameter\ and\ switches\ the\ name\r\n\ to\ the\ specified\ value\r\n\ @param\ name\ is\ the\ parameter\ that\ changes\ the\ name.\r\n
+comment4.params=
+comment4.target=int\ getPoints()
+comment4.text=\r\n\ Getter\ method\ which\ returns\ the\ amount\ of\ points.\r\n\ @return\ returns\ the\ amount\ of\ points.\r\n
+comment5.params=points
+comment5.target=void\ setPoints(int)
+comment5.text=\r\n\ Setter\ method\ that\ takes\ an\ int\ and\ changes\ the\ amount\ of\ points\ to\ \r\n\ the\ value\ specified.\r\n\ @param\ points\ Parameter\ which\ is\ an\ int\ value\ and\ changes\ the\ \r\n\ amount\ of\ points.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Override\ method\ which\ overrides\ toString\ to\ say\ the\ intended\ text.\r\n\ @return\ returns\ the\ upgrade's\ name\ and\ also\ its\ points.\r\n
+numComments=7
