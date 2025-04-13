@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Post
+comment0.text=\r\n\ \ The\ Post\ class\ which\ is\ meant\ to\ display\ a\ post.\r\n\ \ The\ objective\ of\ this\ class\ is\ to\ display\ a\ single\ post.\r\n\r\n\ \ @author\ Aashish\ Ganeshkumar\ (906370814)\r\n\ \ @version\ (2022.03.04)\r\n
+comment1.params=name\ message\ day\ hour
+comment1.target=Post(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Post\ object.\r\n\ @param\ name\ Parameter\ that\ takes\ the\ name\ of\ the\ string.\r\n\ @param\ message\ Paramter\ that\ holds\ the\ string\ message.\r\n\ @param\ day\ Parameter\ that\ takes\ an\ int\ value\ representing\ the\ day.\r\n\ @param\ hour\ Parameter\ that\ takes\ an\ int\ value\ representing\ the\ hour.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Getter\ method\ which\ returns\ the\ name.\r\n\ @return\ Returns\ the\ name.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+comment3.text=\r\n\ Getter\ method\ which\ shows\ us\ the\ message.\r\n\ @return\ returns\ the\ message.\r\n
+comment4.params=
+comment4.target=int\ getDay()
+comment4.text=\r\n\ Getter\ method\ which\ shows\ us\ the\ day.\r\n\ @return\ Returns\ the\ day.\r\n
+comment5.params=
+comment5.target=int\ getHour()
+comment5.text=\r\n\ Getter\ method\ which\ returns\ the\ hour\ value.\r\n\ @return\ Returns\ the\ hour\ value.\r\n
+numComments=6
